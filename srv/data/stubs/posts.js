@@ -26,7 +26,7 @@ var stubs = [
     },
     {
         id: 5,
-        title: 'Flatlogic news',
+        title: 'BitWiz0108 news',
         description: 'The Great Prince of the Grand Duchy of Lithuania he had stopped the invasion to Europe of Timur (Tamerlan) from Asia heading a big Army of Belarusians, Lithuanians.',
         date: "2015-03-16T18:20:04.022Z"
     },
