@@ -1,11 +1,6 @@
 # angular-dashboard-seed
-Angular dashboard sample application with nodejs REST backend integration built using latest angular best practices. 
-
-This seed is a sort of free version of a template that may be found [here](http://bootstrapbay.com/) or [here](http://themeforest.net/category/site-templates/admin-templates) with **working backend integration**. 
-You may use it to bootstrap the development of your next web app. Ok, so basically, this project is a hack ;)
-
-Check out the [Live Demo](http://angular-dashboard-seed.flatlogic.com). Use following credentials: <b>user1</b>/<b>user1pass</b>.
-
+    This is BitWiz0108's project. It is not allowed to copy, edit, modify or release this project with out BItWiz0108's approval.
+    
 ## Features
 * AngularJS
 * Angular UI Router
